@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zhongyi (Johnny) Deng
 - 👀 I’m interested in: Learning all coding languages to boost up my academic improvement and career compatability
-- 🌱 I’m currently learning: Data Structure, algorithms, computer architecture and software engineering
-                              -(Also linear algebra as an elective)
+- 🌱 I’m currently learning: I'm pursuing a bacherlor's degree on Computer Science Coop at McMaster as well as a minor degree on Math. 
 - 💞️ I’m looking to collaborate on: any large website building / website-based game projects
 - 📫 How to reach me: dengz42@mcmaster.ca
 - 😄 Pronouns: He/Him
