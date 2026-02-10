@@ -17,9 +17,6 @@ I'm a **Computer Science student at McMaster University** passionate about softw
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br clear="left" />
 
-### 📈 GitHub Stats
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDeng&show_icons=true&theme=radical)
-
 ### 🔗 Contact Me
 - Email: [dengz42@mcmaster.ca](mailto:dengz42@mcmaster.ca)
 - LinkedIn: [linkedin.com/in/zhongyideng](https://linkedin.com/in/zhongyideng)
