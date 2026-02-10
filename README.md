@@ -20,9 +20,6 @@ I'm a **Computer Science student at McMaster University** passionate about softw
 ### 📈 GitHub Stats
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDeng&show_icons=true&theme=radical)
 
-### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyDeng&layout=compact&theme=radical)
-
 ### 🔗 Contact Me
 - Email: [dengz42@mcmaster.ca](mailto:dengz42@mcmaster.ca)
 - LinkedIn: [linkedin.com/in/zhongyideng](https://linkedin.com/in/zhongyideng)
