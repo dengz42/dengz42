@@ -23,6 +23,3 @@ I'm a **Computer Science student at McMaster University** passionate about softw
 ### 🔗 Contact Me
 - Email: [dengz42@mcmaster.ca](mailto:dengz42@mcmaster.ca)
 - LinkedIn: [linkedin.com/in/zhongyideng](https://linkedin.com/in/zhongyideng)
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
